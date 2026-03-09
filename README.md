@@ -1,19 +1,33 @@
 # 8-bit Processor
 
-Procesor pe 8 biti modelat in Verilog
+Procesor pe 8 biți modelat în Verilog.
 
 ---
 
-## Instructiuni
+## Instrucțiuni
 
-- Aritmetice : ADD, SUB
-- Logice : AND, OR, SHIFTL, SHIFTR
-- Memorie: LOAD, STORE
+- Aritmetice: `ADD`, `SUB`
+- Logice: `AND`, `OR`, `SHIFTL`, `SHIFTR`
+- Memorie: `LOAD`, `STORE`
+
+---
+
+## Arhitectură
+
+![Schema procesor](schema.png)
 
 ---
 
-## Arhitectura (opțional)
+## Componente
 
-![Screenshot](schema.png)
+- ALU
+- Registre (8 × 8 biți)
+- Control Unit (CU)
+- Memorie
 
 ---
+
+## Despre proiect
+
+Acesta este un proiect personal realizat cu scop didactic.  
+Documentația va fi actualizată pe parcurs pentru a corecta eventualele greșeli și pentru a adăuga informații suplimentare despre implementare.
