@@ -14,6 +14,6 @@ Procesor pe 8 biti modelat in Verilog
 
 ## Arhitectura (opțional)
 
-![Uploading schema.png…]()
+![Screenshot](schema.png)
 
 ---
